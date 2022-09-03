@@ -1,17 +1,19 @@
 #
   
- ![gifzorosolasouzx17](https://user-images.githubusercontent.com/109921888/181350883-f7f118d6-2a0b-4771-8355-61d03e91eab4.gif)
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d75440a8-95c3-4862-a615-3fed363a52b7/d5rdd6v-368dbc48-9afc-475d-9c3b-70a44779374b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q3NTQ0MGE4LTk1YzMtNDg2Mi1hNjE1LTNmZWQzNjNhNTJiN1wvZDVyZGQ2di0zNjhkYmM0OC05YWZjLTQ3NWQtOWMzYi03MGE0NDc3OTM3NGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bGMCtE_CUmllIqKYZGyhMO3xfpC7FdJVFW0nHEBBUco" />
+</p>
 
-### Hola/ Salve carai kkj 🤡
+### Hello 👋
 
 **Sou brasileiro** hablo portugues y un poco de espanõl :v
 
-
-- ❌ Não venda conteúdos que serão postado aqui, eles serão totalmente free.
-- ‼ Não sou programador, desenvolvedor profissional, mas ajudo com o que eu souber.
-- ✅ Discord bots e Whatsapp 🤖
-- ⚙ Moderação totalmente atenciosa com o publico.
-- 📨 Email para parceria souzx17@gmail.com
+- Fã de animes, skatista, gamer e tento ser programador também.
+- Não estudo programação porém me divirto muito aprendendo.
+- Não sou programador, desenvolvedor profissional, mas ajudo com o que eu souber.
+- Gosto de tentar desenvolver Webs, discord bots e bots Whatsapp 🤖
+- Atualmente sou o desenvolvedor do Zoro Bot MD e X17 APIS
+- Ah, ZORO SOLA.
 
 ##
 
@@ -23,7 +25,7 @@
   
  
   
-  #### Estudando:
+  #### Estou aprendendo:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="souzx17-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
